@@ -1,4 +1,4 @@
-# Feiyang Chen — Personal Portfolio
+# Rae — Personal Portfolio
 
 A modern, responsive personal portfolio website built with Next.js 14, TypeScript, and Tailwind CSS. Features an interactive introduction gate, smooth animations, and a clean, professional design.
 
