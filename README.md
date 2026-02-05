@@ -175,8 +175,8 @@ This project is private and personal. Feel free to fork and customize for your o
 **Feiyang Chen**
 
 - Email: raechen0717@gmail.com
-- LinkedIn: [feiyang-chen](https://www.linkedin.com/in/feiyang-chen)
-- GitHub: [@RaeChen0717](https://github.com/RaeChen0717)
+- LinkedIn: [feiyang-chen](https://www.linkedin.com/in/feiyang-chen-4960a0325/)
+- GitHub: [@RaeChen0717](https://github.com/RaeC0717)
 
 ## 🙏 Acknowledgments
 
